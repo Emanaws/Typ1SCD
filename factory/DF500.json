@@ -1,0 +1,9 @@
+{
+	"name": "DF500",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dc5731a5-ab24-427f-81c2-2a9fe512cb1a",
+		"tenantId": "c5177141-4db9-4c0f-aad2-2d4930ceafbd"
+	}
+}
